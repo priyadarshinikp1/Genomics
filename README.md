@@ -1,5 +1,6 @@
 # Genomics
-Variant Calling Pipeline using GATK
+Variant Calling Pipeline using GATK for SNPs, CNVs, SVs and Mt (mitochindrial variants)
+
 gatk and picard were cloned from https://github.com/broadinstitute/gatk and https://github.com/broadinstitute/gatk respectively
 
 #pipeline
