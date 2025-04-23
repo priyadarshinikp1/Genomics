@@ -4,7 +4,7 @@ gatk and picard were cloned from https://github.com/broadinstitute/gatk and http
 
 #pipeline
 1. preprocessing
-2. indesing and aligning to reference genome
+2. indexing and aligning to reference genome
 3. generating bam files
 4. preprocessing bam files
 5. marking duplicates
